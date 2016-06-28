@@ -1,0 +1,40 @@
+[2016-06-26 21:07:42,535] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-26 21:07:42,541] [MainThread] Detaching Process.
+[2016-06-26 21:08:04,448] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 53, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 71, in post
+    urllib2.urlopen(req)
+NameError: global name 'req' is not defined
+
+[2016-06-26 21:08:56,500] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-26 21:08:56,500] [MainThread] Detaching Process.
+[2016-06-26 21:09:14,447] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 53, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 71, in post
+    urllib2.urlopen(req)
+NameError: global name 'req' is not defined
+
+[2016-06-26 21:09:31,941] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 53, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 71, in post
+    urllib2.urlopen(req)
+NameError: global name 'req' is not defined
+
+[2016-06-26 21:10:01,953] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 53, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 71, in post
+    urllib2.urlopen(req)
+NameError: global name 'req' is not defined
+

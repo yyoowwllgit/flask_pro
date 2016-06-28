@@ -1,0 +1,203 @@
+[2016-06-24 00:34:13,950] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 00:34:13,951] [MainThread] Detaching Process.
+[2016-06-24 00:38:41,706] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 00:38:41,706] [MainThread] Detaching Process.
+[2016-06-24 00:45:30,635] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 00:45:30,635] [MainThread] Detaching Process.
+[2016-06-24 00:46:05,864] [MainThread] Took too long to run! Killed!
+[2016-06-24 00:46:33,770] [MainThread] Took too long to run! Killed!
+[2016-06-24 18:56:46,996] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 18:56:47,012] [MainThread] Detaching Process.
+[2016-06-24 18:58:00,879] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 110] Connection timed out>
+
+[2016-06-24 18:59:03,923] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 110] Connection timed out>
+
+[2016-06-24 19:00:07,916] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 110] Connection timed out>
+
+[2016-06-24 19:01:10,956] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 110] Connection timed out>
+
+[2016-06-24 19:02:13,972] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 110] Connection timed out>
+
+[2016-06-24 20:57:13,426] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 20:57:13,427] [MainThread] Detaching Process.
+[2016-06-24 23:15:35,380] [MainThread] Changed UID: 0 () GID: 0 ().
+[2016-06-24 23:15:35,383] [MainThread] Detaching Process.
+[2016-06-24 23:44:19,646] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+[2016-06-24 23:44:49,621] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+[2016-06-24 23:45:19,667] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+[2016-06-24 23:45:49,634] [MainThread] Traceback (most recent call last):
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/Handler.py", line 74, in _process
+    self.process(metric)
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 51, in process
+    self.post()
+  File "/root/test/0618/myflaskproject/lib/python2.7/site-packages/diamond/handler/httpHandler.py", line 61, in post
+    urllib2.urlopen(req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/python2711/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
