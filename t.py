@@ -1,3 +1,4 @@
+#master1
 class myca(object):
 	def __init__(self,name,value):
 		self.name=name
